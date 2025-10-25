@@ -12,7 +12,7 @@ Check our current proyects:
 
 ### Open Standards
 Our Open Standards for Software and Hardware.
-- [Drimit Link Open Standard v1](/open-standards)
+- [Drimit Link Open Standard v1](https://drimit-labs.github.io/open-standards/)
 
 ### Open Source
 Our Open Source projects (soon).
