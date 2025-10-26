@@ -20,4 +20,7 @@ Our Open Source projects (soon).
 ### Open Hardware
 Out Open Hardware projects (soon).
 
+### Open Labs
+Our Open Labs project (soon). 
+
 ©️ Drimit Labs 2025 - All Rights Reserved.
