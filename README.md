@@ -1,5 +1,5 @@
 # Welcome to Drimit Labs
-Drimit Labs is a Non-Profit Organization by Drimit for Democratize the Technology for Professional Creators and Artists.
+Drimit Labs is a non-profit organization created by Drimit to democratize technology for professional creators and artists.
 
 ## What we do?
 We're working on multiple projects like open standards, open source software and open hardware, all with first class integration with Drimit, of course.
